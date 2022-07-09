@@ -5,7 +5,7 @@ Former burger engineer turned actual computer engineer.
 Traffic karaoke extraordinaire and Tom Hanks admirer.  
 
 🌱 I’m currently learning GCP, Linux, Python, and Go!  
-🔭 I’m currently working on my lejondary site!
+🔭 I’m currently working on my lejondary site and GCP cert!
 
 <!--
 **Lejondary/Lejondary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
