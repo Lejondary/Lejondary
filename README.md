@@ -20,4 +20,5 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 - [ ] add .dev badge
 - [ ] add gcp dev profile badge
 - [ ] add certs badges
+- [ ] add riot val badge
 -->
