@@ -18,7 +18,11 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
     <a href="https://github/Lejondary">
         <img src ="https://streak-stats.demolab.com?user=Lejondary&theme=gruvbox&hide_border=true&date_format=%5BY.%5Dn.j&card_width=600&background=EB545400" alt="GitHub Streak Stats">
     </a>
-    <!-- WAKATIME BADGE -->
+</div>
+
+<!-- ALL BADGES -->
+<div align="center">
+    <!-- WAKATIME BADGE SINCE 08.01.2023 -->
     <a href="https://wakatime.com/@9378b06c-36d3-42bc-8efd-4d7e819bbcc2"><img src="https://wakatime.com/badge/user/9378b06c-36d3-42bc-8efd-4d7e819bbcc2.svg" alt="Total time coded since Aug 1 2023" /></a>
 </div>
 
