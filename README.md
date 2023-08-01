@@ -16,6 +16,10 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
     </a>
 </div>
 
+<div style="text-align: center;">
+    ![github-streak](https://streak-stats.demolab.com?user=Lejondary&theme=gruvbox&hide_border=true&date_format=%5BY.%5Dn.j&card_width=500&background=EB545400)
+</div>
+
 <!-- TODO
 - [x] add github stats
 - [x] add most used languages stats
