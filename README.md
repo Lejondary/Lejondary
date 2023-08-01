@@ -4,7 +4,8 @@ Lifelong learner with a laptop that low key likes everything especially you.
 Former burger engineer turned actual computer engineer.  
 Traffic karaoke extraordinaire and Tom Hanks admirer.  
 
-<div class ="all-stats" align="center" style="display: flex;">
+<!-- ALL GITHUB STAT CARDS -->
+<div class ="all-stats" align="center" style="display: flex; justify-content: space-between;">
     <!-- GITHUB STATS CARD -->
     <a href="https://github.com/Lejondary">
         <img src="https://github-readme-stats.vercel.app/api?username=Lejondary&theme=gruvbox&bg_color=00000000&hide_title=true&show_icons=true&rank_icon=percentile&hide_border=false&line_height=25&hide=prs,contrib" alt="GitHub Stats">
