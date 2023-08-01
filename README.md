@@ -31,7 +31,7 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
     <!-- GitHub Langs Card -->
     <div class="langs-card" style="text-align: center; float: left; width: 50%;">
         <a href="https://github.com/Lejondary">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lejondary&theme=gruvbox&layout=compact&hide_title=true&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5" alt="Top Languages">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lejondary&theme=gruvbox&bg_color=00000000&layout=compact&hide_title=true&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5" alt="Top Languages">
         </a>
     </div>
 </div>
