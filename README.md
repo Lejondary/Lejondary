@@ -4,17 +4,21 @@ Lifelong learner with a laptop that low key likes everything especially you.
 Former burger engineer turned actual computer engineer.  
 Traffic karaoke extraordinaire and Tom Hanks admirer.  
 
-<!-- GITHUB STATS CARD -->
-<div align="center">
-    <a href="https://github.com/Lejondary">
-        <img src="https://github-readme-stats.vercel.app/api?username=Lejondary&theme=gruvbox&bg_color=00000000&hide_title=true&show_icons=true&rank_icon=percentile&hide_border=true&line_height=25&hide=prs,contrib" alt="GitHub Stats">
-    </a>
-</div>
+<style>
+.all-stats{
+  display: flex;
+  justify-content: space-between;
+}
+</style>
 
-<!-- GITHUB LANGS CARD -->
-<div align="center">
+<div class ="all-stats" align="center">
+    <!-- GITHUB STATS CARD -->
     <a href="https://github.com/Lejondary">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lejondary&theme=gruvbox&bg_color=00000000&layout=compact&hide_title=true&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5" alt="Top Languages">
+        <img src="https://github-readme-stats.vercel.app/api?username=Lejondary&theme=gruvbox&bg_color=00000000&hide_title=true&show_icons=true&rank_icon=percentile&hide_border=false&line_height=25&hide=prs,contrib" alt="GitHub Stats">
+    </a>
+    <!-- GITHUB LANGS CARD -->
+    <a href="https://github.com/Lejondary">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lejondary&theme=gruvbox&bg_color=00000000&layout=compact&hide_title=true&hide_border=false&langs_count=10&size_weight=0.5&count_weight=0.5" alt="Top Languages">
     </a>
 </div>
 
