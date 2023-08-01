@@ -16,7 +16,7 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
     </a>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: flex-start">
+<div align="center">
     <!-- GITHUB STREAK CARD -->
     <a href="https://github/Lejondary">
         <img src ="https://streak-stats.demolab.com?user=Lejondary&theme=gruvbox&hide_border=true&date_format=%5BY.%5Dn.j&card_width=500&background=EB545400" alt="GitHub Streak Stats">
