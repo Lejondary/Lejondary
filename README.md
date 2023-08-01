@@ -5,6 +5,7 @@ Former burger engineer turned actual computer engineer.
 Traffic karaoke extraordinaire and Tom Hanks admirer.  
 
 <!-- GitHub Stats -->
+<!--
 <style>
     .all-stats {
         display: flex;
@@ -18,18 +19,19 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
         width: 500px;
     }
 </style>
+-->
 
 <div class="all-stats">
     <!-- GitHub Stats Card -->
-    <div class="stats-card">
+    <div class="stats-card" style="text-align: center; float: left; width:50%;">
         <a href="https://github.com/Lejondary">
-        <img src="https://github-readme-stats.vercel.app/api?username=Lejondary&theme=gruvbox&bg_color=00000000&hide_title=true&show_icons=true&rank_icon=percentile&hide=prs,contrib" alt="GitHub Stats">
+            <img src="https://github-readme-stats.vercel.app/api?username=Lejondary&theme=gruvbox&bg_color=00000000&hide_title=true&show_icons=true&rank_icon=percentile&hide_border=true&line_height=25&hide=prs,contrib" alt="GitHub Stats">
         </a>
     </div>
     <!-- GitHub Langs Card -->
-    <div class="langs-card">
+    <div class="langs-card" style="text-align: center; float: left; width: 50%;">
         <a href="https://github.com/Lejondary">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lejondary&theme=gruvbox&layout=compact&hide_title=true&langs_count=10&size_weight=0.5&count_weight=0.5" alt="Top Languages">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lejondary&theme=gruvbox&layout=compact&hide_title=true&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5" alt="Top Languages">
         </a>
     </div>
 </div>
