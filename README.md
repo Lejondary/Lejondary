@@ -5,7 +5,7 @@ Former burger engineer turned actual computer engineer.
 Traffic karaoke extraordinaire and Tom Hanks admirer.  
 
 <!-- ALL GITHUB STAT CARDS -->
-<div style="display: flex; justify-content: center; align-items: flex-start">
+<div align="center">
     <!-- GITHUB STATS CARD -->
     <a href="https://github.com/Lejondary">
         <img src="https://github-readme-stats.vercel.app/api?username=Lejondary&theme=gruvbox&bg_color=00000000&hide_title=true&show_icons=true&rank_icon=percentile&hide_border=true&hide=prs,contrib" alt="GitHub Stats">
@@ -14,12 +14,9 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
     <a href="https://github.com/Lejondary">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lejondary&theme=gruvbox&bg_color=00000000&layout=compact&hide_title=true&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5" alt="Top Languages">
     </a>
-</div>
-
-<div align="center; position: relative; left: -1px;">
     <!-- GITHUB STREAK CARD -->
     <a href="https://github/Lejondary">
-        <img src ="https://streak-stats.demolab.com?user=Lejondary&theme=gruvbox&hide_border=false&date_format=%5BY.%5Dn.j&card_width=600&background=EB545400" alt="GitHub Streak Stats">
+        <img src ="https://streak-stats.demolab.com?user=Lejondary&theme=gruvbox&hide_border=true&date_format=%5BY.%5Dn.j&card_width=600&background=EB545400" alt="GitHub Streak Stats">
     </a>
 </div>
 
