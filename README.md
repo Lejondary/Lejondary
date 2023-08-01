@@ -8,11 +8,14 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 - [ ] add github stats
 - [ ] add most used languages stats
 - [ ] add streak stats
+- [ ] add road card
+- [ ] add dev.to badge
 - [ ] add profile views badge
 - [ ] add linkedin badge
 - [ ] add github badge
 - [ ] add skills badges w/ categories
 - [ ] add spotify 
-- [ ] add gif asset 
+- [ ] add gif asset
 - [ ] add portfolio badge
+- [ ] add .dev badge
 -->
