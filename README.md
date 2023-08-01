@@ -18,4 +18,6 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 - [ ] add gif asset
 - [ ] add portfolio badge
 - [ ] add .dev badge
+- [ ] add gcp dev profile badge
+- [ ] add certs badges
 -->
