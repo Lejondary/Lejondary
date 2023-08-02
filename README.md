@@ -35,7 +35,7 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 - [ ] add dev.to badge
 - [ ] add profile views badge
 - [ ] add linkedin badge
-- [ ] add github badge
+- [ ] add github icons
 - [ ] add skills badges w/ categories
 - [ ] add spotify 
 - [ ] add gif asset
@@ -44,6 +44,8 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 - [ ] add gcp dev profile badge
 - [ ] add certs badges
 - [ ] add riot val badge
+- [ ] update bio
+- [ ] change bio format
 -->
 
 <!--Credit: [Lejondary][github-url] -->
