@@ -23,8 +23,11 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 <!-- ALL BADGES -->
 <div align="center">
     <!-- WAKATIME BADGE SINCE 08.01.2023 -->
-    <a href="https://wakatime.com/@9378b06c-36d3-42bc-8efd-4d7e819bbcc2"><img src="https://wakatime.com/badge/user/9378b06c-36d3-42bc-8efd-4d7e819bbcc2.svg?style=plastic" alt="Total time coded since Aug 1 2023" /></a>
+    <a href="https://wakatime.com/@9378b06c-36d3-42bc-8efd-4d7e819bbcc2">
+    <img src="https://wakatime.com/badge/user/9378b06c-36d3-42bc-8efd-4d7e819bbcc2.svg?style=plastic" alt="Total time coded since Aug 1 2023" /></a>
 </div>
+
+[![LinkedIn][linkedin-badge]][linkedin-url]
 
 <!-- TODO
 - [x] add github stats
@@ -34,7 +37,7 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 - [ ] add road card
 - [ ] add dev.to badge
 - [ ] add profile views badge
-- [ ] add linkedin badge
+- [x] add linkedin badge
 - [ ] add github icons
 - [ ] add skills badges w/ categories
 - [ ] add spotify 
@@ -52,12 +55,15 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 
 <!-- MARKDOWN LINKS -->
 
+[linkedin-badge]: https://img.shields.io/badge/linkedin-badge?style=plastic&logo=linkedin&color=%230A66C2
+[linkedin-url]: https://linkedin.com/in/jonathanphari
+
 <!--
 [github-url]: https://github.com/Lejondary
-[wakatime-url]: https://wakatime.com/@9378b06c-36d3-42bc-8efd-4d7e819bbcc2
 
 [github-stats-card]: https://github-readme-stats.vercel.app/api?username=lejondary&theme=gruvbox&bg_color=00000000&hide_title=true&show_icons=true&rank_icon=percentile&hide_border=true&hide=prs,contrib
 [github-langs-card]: https://github-readme-stats.vercel.app/api/top-langs/?username=Lejondary&theme=gruvbox&bg_color=00000000&layout=compact&hide_title=true&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5
 [github-streak-card]: https://streak-stats.demolab.com?user=Lejondary&theme=gruvbox&hide_border=true&date_format=%5BY.%5Dn.j&card_width=500&background=EB545400
 [wakatime-badge]: https://wakatime.com/badge/user/9378b06c-36d3-42bc-8efd-4d7e819bbcc2.svg?style=plastic
+[wakatime-url]: https://wakatime.com/@9378b06c-36d3-42bc-8efd-4d7e819bbcc2
 -->
