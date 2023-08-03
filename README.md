@@ -5,12 +5,15 @@ Former burger engineer turned actual computer engineer.
 Traffic karaoke extraordinaire and Tom Hanks admirer.  
 
 <!-- ALL GITHUB STAT CARDS -->
+
 <div align="center">
 
-<!-- GITHUB STATS CARD -->
-[![github-stats][github-stats-card]][github-url]
-<!-- GITHUB LANGS CARD -->
-[![github-langs][github-langs-card]][github-url]
+<!-- GITHUB STATS & LANGS CARD -->
+[![github-stats][github-stats-card]][github-url][![github-langs][github-langs-card]][github-url]
+
+</div>
+
+<div align="center>
     <!-- GITHUB STREAK CARD -->
     <a href="https://github.com/Lejondary">
         <img src ="https://streak-stats.demolab.com?user=Lejondary&theme=gruvbox&hide_border=true&date_format=%5BY.%5Dn.j&card_width=600&background=EB545400" alt="GitHub Streak Stats">
