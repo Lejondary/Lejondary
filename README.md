@@ -9,10 +9,8 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 
 <!-- GITHUB STATS CARD -->
 [![github-stats][github-stats-card]][github-url]
-    <!-- GITHUB LANGS CARD -->
-    <a href="https://github.com/Lejondary">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lejondary&theme=gruvbox&bg_color=00000000&layout=compact&hide_title=true&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5" alt="Top Languages">
-    </a>
+<!-- GITHUB LANGS CARD -->
+[![github-langs][github-langs-card]][github-url]
     <!-- GITHUB STREAK CARD -->
     <a href="https://github.com/Lejondary">
         <img src ="https://streak-stats.demolab.com?user=Lejondary&theme=gruvbox&hide_border=true&date_format=%5BY.%5Dn.j&card_width=600&background=EB545400" alt="GitHub Streak Stats">
@@ -55,14 +53,13 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 <!-- MARKDOWN LINKS -->
 [github-url]: https://github.com/Lejondary
 
+[github-stats-card]: https://github-readme-stats.vercel.app/api?username=lejondary&theme=gruvbox&bg_color=00000000&hide_title=true&show_icons=true&rank_icon=percentile&hide_border=true&hide=prs,contrib
+[github-langs-card]: https://github-readme-stats.vercel.app/api/top-langs/?username=Lejondary&theme=gruvbox&bg_color=00000000&layout=compact&hide_title=true&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5
+
 [linkedin-badge]: https://img.shields.io/badge/linkedin-badge?style=plastic&logo=linkedin&color=%230A66C2
 [linkedin-url]: https://linkedin.com/in/jonathanphari
-
-[github-stats-card]: https://github-readme-stats.vercel.app/api?username=lejondary&theme=gruvbox&bg_color=00000000&hide_title=true&show_icons=true&rank_icon=percentile&hide_border=true&hide=prs,contrib
-
 <!--
 
-[github-langs-card]: https://github-readme-stats.vercel.app/api/top-langs/?username=Lejondary&theme=gruvbox&bg_color=00000000&layout=compact&hide_title=true&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5
 [github-streak-card]: https://streak-stats.demolab.com?user=Lejondary&theme=gruvbox&hide_border=true&date_format=%5BY.%5Dn.j&card_width=500&background=EB545400
 [wakatime-badge]: https://wakatime.com/badge/user/9378b06c-36d3-42bc-8efd-4d7e819bbcc2.svg?style=plastic
 [wakatime-url]: https://wakatime.com/@9378b06c-36d3-42bc-8efd-4d7e819bbcc2
