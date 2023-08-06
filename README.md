@@ -32,14 +32,9 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 </div>
 
 <!-- TODO
-- [x] add github stats
-- [x] add most used languages stats
-- [x] add wakatime card
-- [x] add streak stats
 - [ ] add road card
 - [ ] add dev.to badge
 - [ ] add profile views badge
-- [x] add linkedin badge
 - [ ] add github icons
 - [ ] add skills badges w/ categories
 - [ ] add spotify 
