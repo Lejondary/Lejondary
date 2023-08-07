@@ -1,9 +1,32 @@
 # Whad Hannin'! 👋
 
+## About Me
+
 Lifelong learner with a laptop that low key likes everything especially you.  
 Former burger engineer turned actual computer engineer.  
 Traffic karaoke extraordinaire and Tom Hanks admirer.  
 
+<!--
+## 💻 My Tech Stack
+
+### Cloud
+
+![tech-cloud]
+
+### Programmning Languages
+
+![tech-langs]
+
+### Frontend Frameworks
+
+### Backend Frameworks
+
+### Software & Tools
+
+![terraform]
+-->
+
+## Stats
 <!-- ALL GITHUB STAT CARDS -->
 
 <div align="center">
@@ -43,11 +66,12 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 - [ ] add .dev badge
 - [ ] add gcp dev profile badge
 - [ ] add certs badges
+- [ ] add typing svg
+- [ ] add last updated badge
 - [ ] add riot val badge
 - [ ] update bio
 - [ ] change bio format
-- [ ] add resume
-- [ ] find icons
+- [x] find icons
 -->
 
 <!--Credit: [Lejondary][github-url] -->
@@ -63,3 +87,5 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 [linkedin-badge]: https://img.shields.io/badge/linkedin-badge?style=plastic&logo=linkedin&color=%230A66C2
 [linkedin-url]: https://linkedin.com/in/jonathanphari
 [views-badge]: https://komarev.com/ghpvc/?username=Lejondary&style=plastic&color=d65d0e&label
+[tech-langs]: https://skillicons.dev/icons?i=py,html,css,js,java,c,cpp
+[tech-cloud]: https://skillicons.dev/icons?i=gcp
