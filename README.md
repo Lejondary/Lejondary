@@ -27,14 +27,14 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 
 <div align="right">
 
-[![LinkedIn][linkedin-badge]][linkedin-url]
+[![linkedin][linkedin-badge]][linkedin-url][![views][views-badge]][github-url]
 
 </div>
 
 <!-- TODO
 - [ ] add road card
 - [ ] add dev.to badge
-- [ ] add profile views badge
+- [x] add profile views badge
 - [ ] add github icons
 - [ ] add skills badges w/ categories
 - [ ] add spotify 
@@ -62,3 +62,4 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 [wakatime-url]: https://wakatime.com/@9378b06c-36d3-42bc-8efd-4d7e819bbcc2
 [linkedin-badge]: https://img.shields.io/badge/linkedin-badge?style=plastic&logo=linkedin&color=%230A66C2
 [linkedin-url]: https://linkedin.com/in/jonathanphari
+[views-badge]: https://komarev.com/ghpvc/?username=Lejondary&style=plastic&color=d65d0e&label
