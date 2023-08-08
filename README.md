@@ -1,21 +1,29 @@
+<h2 align="center">whad hannin'! i'm jonathan.</h2>
+
+---
+
 ![banner]
 
-# <span style="color: #d65d0e; font-family: Helvetica">whad hannin' 👋</span>
+---
 
-## <span style="color: #d65d0e; font-family: Helvetica">about me</span>
+## about me
 
+<!-- START_SECTION: about me -->
 lifelong learner with a laptop that low key likes everything especially you.  
 former burger engineer turned actual computer engineer.  
 traffic karaoke extraordinaire and Tom Hanks admirer.  
+<!-- END_SECTION: about me -->
 
 <!--
-## 💻 My Tech Stack
+## 💻 my tech stack
 
+<!-- START_SECTION: my tech stack -->
+<!--
 ### Cloud
 
 ![tech-cloud]
 
-### Programmning Languages
+### Programming Languages
 
 ![tech-langs]
 
@@ -27,22 +35,21 @@ traffic karaoke extraordinaire and Tom Hanks admirer.
 
 ![terraform]
 -->
+<!-- END_SECTION: my tech stack -->
+## stats
 
-## <span style="color: #d65d0e; font-family: Helvetica">stats</span>
-
-<!-- ALL GITHUB STAT CARDS -->
-
+<!-- START_SECTION: stats -->
 <div align="center">
 
 <!-- GITHUB STATS & LANGS CARDS -->
 [![github-stats][github-stats-card]][github-url][![github-langs][github-langs-card]][github-url]
-
 <!-- GITHUB STREAK CARD -->
 [![github-streak][github-streak-card]][github-url]
 
 </div>
+<!-- END_SECTION: stats -->
 
-<!-- ALL BADGES -->
+<!-- BADGES -->
 
 <div align="center">
 
