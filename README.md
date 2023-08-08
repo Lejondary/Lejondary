@@ -8,7 +8,7 @@
 
 </div>
 
-### About Me
+### 🍔 About Me
 
 <!-- START_SECTION: about me -->
 Lifelong learner with a laptop that low key likes everything especially you.  
@@ -21,7 +21,7 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 
 <!-- START_SECTION: my tech stack -->
 <!--
-### Cloud
+### ☁️ Cloud
 
 ![tech-cloud]
 
@@ -38,7 +38,7 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 ![terraform]
 -->
 <!-- END_SECTION: my tech stack -->
-### Stats
+### 📊 Stats
 
 <!-- START_SECTION: stats -->
 <div align="center">
