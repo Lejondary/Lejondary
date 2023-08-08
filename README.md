@@ -1,15 +1,19 @@
-<h3 align="center">whad hannin'! i'm jonathan.</h3>
+<h3 align="center">👋 Hello! I'm Jonathan.</h3>
 
 ---
 
+<div align="center">
+
 ![banner]
 
-### about me
+</div>
+
+### About Me
 
 <!-- START_SECTION: about me -->
-lifelong learner with a laptop that low key likes everything especially you.  
-former burger engineer turned actual computer engineer.  
-traffic karaoke extraordinaire and Tom Hanks admirer.  
+Lifelong learner with a laptop that low key likes everything especially you.  
+Former burger engineer turned actual computer engineer.  
+Traffic karaoke extraordinaire and Tom Hanks admirer.  
 <!-- END_SECTION: about me -->
 
 <!--
@@ -34,7 +38,7 @@ traffic karaoke extraordinaire and Tom Hanks admirer.
 ![terraform]
 -->
 <!-- END_SECTION: my tech stack -->
-### stats
+### Stats
 
 <!-- START_SECTION: stats -->
 <div align="center">
@@ -80,7 +84,7 @@ traffic karaoke extraordinaire and Tom Hanks admirer.
 
 <!-- MARKDOWN LINKS -->
 
-[banner]: https://readme-typing-svg.demolab.com?font=Tinos&pause=1000&color=8ec07c&vCenter=true&multiline=true&width=435&height=100&lines=software+developer;computer+engineer;cloud+architect
+[banner]: https://readme-typing-svg.demolab.com?font=Tinos&duration=3500&pause=100&color=8EC07C&center=true&vCenter=true&multiline=true&width=435&height=100&lines=SOFTWARE+DEVELOPER;COMPUTER+ENGINEER;CLOUD+ARCHITECT
 [github-url]: https://github.com/Lejondary
 [github-stats-card]: https://github-readme-stats.vercel.app/api?username=lejondary&theme=gruvbox&bg_color=00000000&hide_title=true&show_icons=true&rank_icon=percentile&hide_border=true&hide=prs,contrib
 [github-langs-card]: https://github-readme-stats.vercel.app/api/top-langs/?username=Lejondary&theme=gruvbox&bg_color=00000000&layout=compact&hide_title=true&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5
