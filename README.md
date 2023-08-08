@@ -43,18 +43,13 @@ traffic karaoke extraordinaire and Tom Hanks admirer.
 [![github-stats][github-stats-card]][github-url][![github-langs][github-langs-card]][github-url]
 <!-- GITHUB STREAK CARD -->
 [![github-streak][github-streak-card]][github-url]
+<!-- WAKATIME BADGE SINCE 08.01.2023 -->
+[![wakatime][wakatime-badge]][wakatime-url]
 
 </div>
 <!-- END_SECTION: stats -->
 
 <!-- BADGES -->
-
-<div align="center">
-
-<!-- WAKATIME BADGE SINCE 08.01.2023 -->
-[![wakatime][wakatime-badge]][wakatime-url]
-
-</div>
 
 <div align="right">
 
