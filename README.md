@@ -16,28 +16,28 @@ Former burger engineer turned actual computer engineer.
 Traffic karaoke extraordinaire and Tom Hanks admirer.  
 <!-- END_SECTION: about me -->
 
-<!--
-### 💻 my tech stack
+### 💻 Tech Stack
 
 <!-- START_SECTION: my tech stack -->
-<!--
-### ☁️ Cloud
+<div align="left" style="width:25px; height:25px">
 
-![tech-cloud]
+#### ☁️ Cloud
 
-### Programming Languages
+![gcp-icon]
 
-![tech-langs]
+#### Programming Languages
 
-### Frontend Frameworks
+#### Frontend Frameworks
 
-### Backend Frameworks
+![angular-icon]
 
-### Software & Tools
+#### Backend Frameworks
 
-![terraform]
--->
+#### Software & Tools
+
+</div>
 <!-- END_SECTION: my tech stack -->
+
 ### 📊 Stats
 
 <!-- START_SECTION: stats -->
@@ -94,5 +94,5 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 [linkedin-badge]: https://img.shields.io/badge/linkedin-badge?style=plastic&logo=linkedin&color=%230A66C2
 [linkedin-url]: https://linkedin.com/in/jonathanphari
 [views-badge]: https://komarev.com/ghpvc/?username=Lejondary&style=plastic&color=d65d0e&label
-[tech-langs]: https://skillicons.dev/icons?i=py,html,css,js,java,c,cpp
-[tech-cloud]: https://skillicons.dev/icons?i=gcp
+[gcp-icon]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg
+[angular-icon]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg
