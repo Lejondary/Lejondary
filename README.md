@@ -1,12 +1,10 @@
-<h2 align="center">whad hannin'! i'm jonathan.</h2>
+<h3 align="center">whad hannin'! i'm jonathan.</h3>
 
 ---
 
 ![banner]
 
----
-
-## about me
+### about me
 
 <!-- START_SECTION: about me -->
 lifelong learner with a laptop that low key likes everything especially you.  
@@ -15,7 +13,7 @@ traffic karaoke extraordinaire and Tom Hanks admirer.
 <!-- END_SECTION: about me -->
 
 <!--
-## 💻 my tech stack
+### 💻 my tech stack
 
 <!-- START_SECTION: my tech stack -->
 <!--
@@ -36,7 +34,7 @@ traffic karaoke extraordinaire and Tom Hanks admirer.
 ![terraform]
 -->
 <!-- END_SECTION: my tech stack -->
-## stats
+### stats
 
 <!-- START_SECTION: stats -->
 <div align="center">
@@ -60,6 +58,7 @@ traffic karaoke extraordinaire and Tom Hanks admirer.
 
 <div align="right">
 
+<!-- VIEWS BADGE SINCE 08.07.2023 -->
 [![linkedin][linkedin-badge]][linkedin-url][![views][views-badge]][github-url]
 
 </div>
