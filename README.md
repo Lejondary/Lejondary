@@ -1,3 +1,4 @@
+![banner]
 # Whad Hannin'! 👋
 
 ## About Me
@@ -60,13 +61,11 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 - [x] add profile views badge
 - [ ] add github icons
 - [ ] add skills badges w/ categories
-- [ ] add spotify 
-- [ ] add gif asset
 - [ ] add portfolio badge
 - [ ] add .dev badge
 - [ ] add gcp dev profile badge
 - [ ] add certs badges
-- [ ] add typing svg
+- [x] add typing svg
 - [ ] add last updated badge
 - [ ] add riot val badge
 - [ ] update bio
@@ -78,6 +77,7 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 
 <!-- MARKDOWN LINKS -->
 
+[banner]: https://readme-typing-svg.demolab.com?font=Tinos&pause=1000&color=D65D0E&vCenter=true&multiline=true&width=435&height=100&lines=software+developer;computer+engineer;cloud+architect
 [github-url]: https://github.com/Lejondary
 [github-stats-card]: https://github-readme-stats.vercel.app/api?username=lejondary&theme=gruvbox&bg_color=00000000&hide_title=true&show_icons=true&rank_icon=percentile&hide_border=true&hide=prs,contrib
 [github-langs-card]: https://github-readme-stats.vercel.app/api/top-langs/?username=Lejondary&theme=gruvbox&bg_color=00000000&layout=compact&hide_title=true&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5
