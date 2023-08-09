@@ -43,12 +43,8 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 
 #### IDEs/Editors
 
-<a href="https://www.vim.org/docs.php">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim-icon" width="30" height="30"/>
-</a>
-<a href="https://code.visualstudio.com/docs">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vim-icon" width="30" height="30"/>
-</a>
+<a href="https://www.vim.org/docs.php"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim-icon" width="30" height="30"/></a>
+<a href="https://code.visualstudio.com/docs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode-icon" width="30" height="30"/></a>
 
 </div>
 <!-- END_SECTION: my tech stack -->
