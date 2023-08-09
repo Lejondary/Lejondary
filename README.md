@@ -19,7 +19,7 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 
 <!-- END_SECTION: about me -->
 
-### <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="hello world laptop" width="25" align="left"/>&nbsp;Tech Stack
+### <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="hello world laptop" width="30" align="left"/>&nbsp;Tech Stack
 
 <!-- START_SECTION: my tech stack -->
 <div align="left">
@@ -46,7 +46,7 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 </div>
 <!-- END_SECTION: my tech stack -->
 
-### <img src="https://media.giphy.com/media/S8TzUKzRPjepzJx37U/giphy.gif" alt="analytics laptop" width="30" align="left"/>&nbsp;Stats
+### <img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" alt="bar graph gif" width="17" align="left"/>&nbsp;Stats
 
 <!-- START_SECTION: stats -->
 <div align="center">
