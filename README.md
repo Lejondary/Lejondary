@@ -105,6 +105,8 @@
 <!-- TODO
 - [ ] add road card
 - [ ] add connect with me section w/ badges
+- [ ] revamp badges to md
+- [ ] make badge repo
 - [ ] add dev.to badge
 - [ ] add portfolio badge
 - [ ] add .dev badge
