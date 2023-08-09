@@ -6,24 +6,27 @@
 
 ![banner]
 
+<img src="https://media.giphy.com/media/kspVl6FzbdblOMKRmM/giphy.gif" alt="this is fine" width="" height="69"/>
+
 </div>
 
-### 🍔 About Me
+### 🍔&nbsp;About Me
 
 <!-- START_SECTION: about me -->
 Lifelong learner with a laptop that low key likes everything especially you.  
 Former burger engineer turned actual computer engineer.  
-Traffic karaoke extraordinaire and Tom Hanks admirer.  
+Traffic karaoke extraordinaire and Tom Hanks admirer.
+
 <!-- END_SECTION: about me -->
 
-### 💻 Tech Stack
+### <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="hello world laptop" width="25" align="left"/>&nbsp;Tech Stack
 
 <!-- START_SECTION: my tech stack -->
 <div align="left">
 
 #### Programming Languages
 
-<a href="https://docs.python.org/3/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/></a>
+<a href="https://docs.python.org/3/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py-icon" width="30" height="30"/></a>
 #### Cloud
 
 <a href="https://cloud.google.com/docs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp-icon" width="30" height="30"/></a>
@@ -43,7 +46,7 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 </div>
 <!-- END_SECTION: my tech stack -->
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20">Stats
+### <img src="https://media.giphy.com/media/S8TzUKzRPjepzJx37U/giphy.gif" alt="analytics laptop" width="30" align="left"/>&nbsp;Stats
 
 <!-- START_SECTION: stats -->
 <div align="center">
