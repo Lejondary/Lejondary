@@ -21,15 +21,19 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 <!-- START_SECTION: my tech stack -->
 <div align="left">
 
-#### ☁️ Cloud
+#### Cloud
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp-icon" width="30" height="30"/>
+<a href="https://cloud.google.com/docs">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp-icon" width="30" height="30"/>
+</a>
 
 #### Programming Languages
 
 #### Frontend Frameworks
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular-icon" width="30" height="30"/>
+<a href="https://angular.io/docs">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular-icon" width="30" height="30"/>
+</a>
 
 #### Backend Frameworks
 
