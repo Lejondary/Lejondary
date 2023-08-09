@@ -41,14 +41,21 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 <a href="https://docs.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker-icon" width="30" height="30"/></a>
 <a href="https://kubernetes.io/docs/home/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes-icon" width="30" height="30"/></a>
 <a href="https://developer.hashicorp.com/terraform/docs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="terraform-icon" width="30" height="30"/></a>
+<a href="https://git-scm.com/doc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git-icon" width="30" height="30"/></a>
+<a href="https://docs.github.com/en"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github-icon" width="30" height="30"/></a>
 #### Frameworks
 
 <a href="https://angular.io/docs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular-icon" width="30" height="30"/></a>
 
 #### Databases
 
+<a href="https://dev.mysql.com/doc/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql-icon" width="30" height="30"/></a>
+
 #### Operating Systems
 
+<a href="https://developer.apple.com/macos/"><img src="https://cdn.simpleicons.org/macos" alt="macos-icon" width="30" height="30"/></a>
+<a href="https://learn.microsoft.com/en-us/windows/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="win-icon" width="30" height="30"/></a>
+<a href="https://docs.kernel.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux-icon" width="30" height="30"/></a>
 #### IDEs/Editors
 
 <a href="https://www.vim.org/docs.php"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim-icon" width="30" height="30"/></a>
