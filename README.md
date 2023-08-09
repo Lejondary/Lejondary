@@ -27,6 +27,7 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 #### Programming Languages
 
 <a href="https://docs.python.org/3/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py-icon" width="30" height="30"/></a>
+<a href="https://docs.python.org/3/"><img src="https://cdn.simpleicons.org/gnubash" alt="bash-icon" width="30" height="30"/></a>
 <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c-icon" width="30" height="30"/></a>
 <a href="https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170"><img src="https://cdn.simpleicons.org/cplusplus" alt="cpp-icon" width="30" height="30"/></a>
 <a href="https://docs.oracle.com/en/java/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java-icon" width="30" height="30"/></a>
@@ -56,10 +57,13 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 <a href="https://developer.apple.com/macos/"><img src="https://cdn.simpleicons.org/macos" alt="macos-icon" width="30" height="30"/></a>
 <a href="https://learn.microsoft.com/en-us/windows/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="win-icon" width="30" height="30"/></a>
 <a href="https://docs.kernel.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux-icon" width="30" height="30"/></a>
+<a href="https://help.ubuntu.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu-icon" width="30" height="30"/></a>
 #### IDEs/Editors
 
 <a href="https://www.vim.org/docs.php"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim-icon" width="30" height="30"/></a>
 <a href="https://code.visualstudio.com/docs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode-icon" width="30" height="30"/></a>
+<a href="https://learn.microsoft.com/en-us/visualstudio/ide/?view=vs-2022"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio-icon" width="30" height="30"/></a>
+<a href="https://www.jetbrains.com/help/idea/getting-started.html"><img src="https://cdn.simpleicons.org/intellijidea" alt="intellij-icon" width="30" height="30"/></a>
 
 </div>
 <!-- END_SECTION: my tech stack -->
