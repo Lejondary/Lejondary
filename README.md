@@ -7,6 +7,7 @@
 ![banner]
 
 </div>
+
 <!--
 <img src="https://media.giphy.com/media/kspVl6FzbdblOMKRmM/giphy.gif" alt="this is fine" width="" height="69" align="right"/>
 -->
@@ -14,9 +15,7 @@
 ### 🍔&nbsp;About Me
 
 <!-- START_SECTION: about me -->
-Lifelong learner with a laptop that low key likes everything especially you.  
-Former burger engineer turned actual computer engineer.  
-Traffic karaoke extraordinaire and Tom Hanks admirer.
+
 <!-- END_SECTION: about me -->
 
 ### <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="hello world laptop" width="31" align="left"/>&nbsp;Tech Stack
@@ -39,6 +38,7 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html-icon" width="30" height="30"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css-icon" width="30" height="30"/></a>
 <a href="https://www.markdownguide.org/getting-started/"><img src="https://cdn.simpleicons.org/markdown/005b96" alt="markdown-icon" width="30" height="30"/></a>
+
 #### Cloud
 
 <a href="https://cloud.google.com/docs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp-icon" width="30" height="30"/></a>
@@ -50,6 +50,7 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 <a href="https://developer.hashicorp.com/terraform/docs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="terraform-icon" width="30" height="30"/></a>
 <a href="https://git-scm.com/doc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git-icon" width="30" height="30"/></a>
 <a href="https://docs.github.com/en"><img src="https://cdn.simpleicons.org/github/8ec07c" alt="github-icon" width="30" height="30"/></a>
+
 #### Frameworks
 
 <a href="https://angular.io/docs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular-icon" width="30" height="30"/></a>
@@ -66,6 +67,7 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 <a href="https://learn.microsoft.com/en-us/windows/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="win-icon" width="30" height="30"/></a>
 <a href="https://docs.kernel.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux-icon" width="30" height="30"/></a>
 <a href="https://help.ubuntu.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu-icon" width="30" height="30"/></a>
+
 #### IDEs/Editors
 
 <a href="https://www.vim.org/docs.php"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim-icon" width="30" height="30"/></a>
@@ -95,7 +97,8 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 <div align="right">
 
 <!-- VIEWS BADGE SINCE 08.07.2023 -->
-[![linkedin][linkedin-badge]][linkedin-url][![views][views-badge]][github-url]
+[![views][views-badge]][github-url]
+<!--[![linkedin][linkedin-badge]][linkedin-url]-->
 
 </div>
 
@@ -104,7 +107,7 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 - [ ] add dev.to badge
 - [x] add profile views badge
 - [ ] add github icons
-- [ ] add skills badges w/ categories
+- [x] add skills badges w/ categories
 - [ ] add portfolio badge
 - [ ] add .dev badge
 - [ ] add gcp dev profile badge
@@ -128,6 +131,8 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 [github-streak-card]: https://streak-stats.demolab.com?user=Lejondary&theme=gruvbox&hide_border=true&date_format=%5BY.%5Dn.j&card_width=500&background=EB545400
 [wakatime-badge]: https://wakatime.com/badge/user/9378b06c-36d3-42bc-8efd-4d7e819bbcc2.svg?style=plastic
 [wakatime-url]: https://wakatime.com/@9378b06c-36d3-42bc-8efd-4d7e819bbcc2
+<!--
 [linkedin-badge]: https://img.shields.io/badge/linkedin-badge?style=plastic&logo=linkedin&color=%230A66C2
 [linkedin-url]: https://linkedin.com/in/jonathanphari
+-->
 [views-badge]: https://komarev.com/ghpvc/?username=Lejondary&style=plastic&color=d65d0e&label
