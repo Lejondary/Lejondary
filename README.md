@@ -22,7 +22,7 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 ### <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="hello world laptop" width="31" align="left"/>&nbsp;Tech Stack
 
 <!-- START_SECTION: my tech stack -->
-<div align="left">
+<div>
 
 #### Programming Languages
 
@@ -42,6 +42,13 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 #### Operating Systems
 
 #### IDEs/Editors
+
+<a href="https://www.vim.org/docs.php">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim-icon" width="30" height="30"/>
+</a>
+<a href="https://code.visualstudio.com/docs">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vim-icon" width="30" height="30"/>
+</a>
 
 </div>
 <!-- END_SECTION: my tech stack -->
