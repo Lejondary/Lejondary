@@ -6,9 +6,10 @@
 
 ![banner]
 
-<img src="https://media.giphy.com/media/kspVl6FzbdblOMKRmM/giphy.gif" alt="this is fine" width="" height="69"/>
-
 </div>
+<!--
+<img src="https://media.giphy.com/media/kspVl6FzbdblOMKRmM/giphy.gif" alt="this is fine" width="" height="69" align="right"/>
+-->
 
 ### 🍔&nbsp;About Me
 
@@ -16,7 +17,6 @@
 Lifelong learner with a laptop that low key likes everything especially you.  
 Former burger engineer turned actual computer engineer.  
 Traffic karaoke extraordinaire and Tom Hanks admirer.
-
 <!-- END_SECTION: about me -->
 
 ### <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="hello world laptop" width="31" align="left"/>&nbsp;Tech Stack
