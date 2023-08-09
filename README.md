@@ -43,7 +43,7 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 <a href="https://kubernetes.io/docs/home/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes-icon" width="30" height="30"/></a>
 <a href="https://developer.hashicorp.com/terraform/docs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="terraform-icon" width="30" height="30"/></a>
 <a href="https://git-scm.com/doc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git-icon" width="30" height="30"/></a>
-<a href="https://docs.github.com/en"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github-icon" width="30" height="30"/></a>
+<a href="https://docs.github.com/en"><img src="https://cdn.simpleicons.org/github/8ec07c" alt="github-icon" width="30" height="30"/></a>
 #### Frameworks
 
 <a href="https://angular.io/docs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular-icon" width="30" height="30"/></a>
@@ -54,7 +54,7 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 
 #### Operating Systems
 
-<a href="https://developer.apple.com/macos/"><img src="https://cdn.simpleicons.org/macos" alt="macos-icon" width="30" height="30"/></a>
+<a href="https://developer.apple.com/macos/"><img src="https://cdn.simpleicons.org/macos/c0bfc0" alt="macos-icon" width="30" height="30"/></a>
 <a href="https://learn.microsoft.com/en-us/windows/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="win-icon" width="30" height="30"/></a>
 <a href="https://docs.kernel.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux-icon" width="30" height="30"/></a>
 <a href="https://help.ubuntu.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu-icon" width="30" height="30"/></a>
@@ -63,7 +63,7 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 <a href="https://www.vim.org/docs.php"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim-icon" width="30" height="30"/></a>
 <a href="https://code.visualstudio.com/docs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode-icon" width="30" height="30"/></a>
 <a href="https://learn.microsoft.com/en-us/visualstudio/ide/?view=vs-2022"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio-icon" width="30" height="30"/></a>
-<a href="https://www.jetbrains.com/help/idea/getting-started.html"><img src="https://cdn.simpleicons.org/intellijidea" alt="intellij-icon" width="30" height="30"/></a>
+<a href="https://www.jetbrains.com/help/idea/getting-started.html"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" alt="intellijidea-icon" width="30" height="30"/></a>
 
 </div>
 <!-- END_SECTION: my tech stack -->
