@@ -104,20 +104,15 @@
 
 <!-- TODO
 - [ ] add road card
+- [ ] add connect with me section w/ badges
 - [ ] add dev.to badge
-- [x] add profile views badge
-- [ ] add github icons
-- [x] add skills badges w/ categories
 - [ ] add portfolio badge
 - [ ] add .dev badge
 - [ ] add gcp dev profile badge
 - [ ] add certs badges
-- [x] add typing svg
-- [ ] add last updated badge
-- [ ] add riot val badge
+- [ ] add last updated shield badge
+- [ ] add riot val badge?
 - [ ] update bio
-- [ ] change bio format
-- [x] find icons
 -->
 
 <!--Credit: [Lejondary][github-url] -->
