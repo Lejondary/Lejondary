@@ -33,6 +33,12 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 <a href="https://docs.oracle.com/en/java/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java-icon" width="30" height="30"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript-icon" width="30" height="30"/></a>
 <a href="https://www.typescriptlang.org/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript-icon" width="30" height="30"/></a>
+
+#### Markup Languages
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html-icon" width="30" height="30"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css-icon" width="30" height="30"/></a>
+<a href="https://www.markdownguide.org/getting-started/"><img src="https://cdn.simpleicons.org/markdown/005b96" alt="markdown-icon" width="30" height="30"/></a>
 #### Cloud
 
 <a href="https://cloud.google.com/docs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp-icon" width="30" height="30"/></a>
