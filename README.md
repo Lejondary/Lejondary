@@ -22,17 +22,25 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 ### <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="hello world laptop" width="31" align="left"/>&nbsp;Tech Stack
 
 <!-- START_SECTION: my tech stack -->
-<div>
+<div align="left">
 
 #### Programming Languages
 
 <a href="https://docs.python.org/3/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py-icon" width="30" height="30"/></a>
+<a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c-icon" width="30" height="30"/></a>
+<a href="https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170"><img src="https://cdn.simpleicons.org/cplusplus" alt="cpp-icon" width="30" height="30"/></a>
+<a href="https://docs.oracle.com/en/java/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java-icon" width="30" height="30"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript-icon" width="30" height="30"/></a>
+
 #### Cloud
 
 <a href="https://cloud.google.com/docs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp-icon" width="30" height="30"/></a>
 
 #### DevOps
 
+<a href="https://docs.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker-icon" width="30" height="30"/></a>
+<a href="https://kubernetes.io/docs/home/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes-icon" width="30" height="30"/></a>
+<a href="https://developer.hashicorp.com/terraform/docs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="terraform-icon" width="30" height="30"/></a>
 #### Frameworks
 
 <a href="https://angular.io/docs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular-icon" width="30" height="30"/></a>
