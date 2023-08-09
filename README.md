@@ -32,7 +32,7 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 <a href="https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170"><img src="https://cdn.simpleicons.org/cplusplus" alt="cpp-icon" width="30" height="30"/></a>
 <a href="https://docs.oracle.com/en/java/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java-icon" width="30" height="30"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript-icon" width="30" height="30"/></a>
-
+<a href="https://www.typescriptlang.org/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript-icon" width="30" height="30"/></a>
 #### Cloud
 
 <a href="https://cloud.google.com/docs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp-icon" width="30" height="30"/></a>
@@ -47,10 +47,12 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 #### Frameworks
 
 <a href="https://angular.io/docs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular-icon" width="30" height="30"/></a>
+<a href="https://docs.djangoproject.com/en/4.2/"><img src="https://cdn.simpleicons.org/django" alt="django-icon" width="30" height="30"/></a>
 
 #### Databases
 
 <a href="https://dev.mysql.com/doc/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql-icon" width="30" height="30"/></a>
+<a href="https://www.postgresql.org/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql-icon" width="30" height="30"/></a>
 
 #### Operating Systems
 
