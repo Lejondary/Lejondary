@@ -21,28 +21,29 @@ Traffic karaoke extraordinaire and Tom Hanks admirer.
 <!-- START_SECTION: my tech stack -->
 <div align="left">
 
-#### Cloud
-
-<a href="https://cloud.google.com/docs">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp-icon" width="30" height="30"/>
-</a>
-
 #### Programming Languages
 
-#### Frontend Frameworks
+<a href="https://docs.python.org/3/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/></a>
+#### Cloud
 
-<a href="https://angular.io/docs">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular-icon" width="30" height="30"/>
-</a>
+<a href="https://cloud.google.com/docs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp-icon" width="30" height="30"/></a>
 
-#### Backend Frameworks
+#### DevOps
 
-#### Software & Tools
+#### Frameworks
+
+<a href="https://angular.io/docs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular-icon" width="30" height="30"/></a>
+
+#### Databases
+
+#### Operating Systems
+
+#### IDEs/Editors
 
 </div>
 <!-- END_SECTION: my tech stack -->
 
-### 📊 Stats
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20">Stats
 
 <!-- START_SECTION: stats -->
 <div align="center">
