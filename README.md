@@ -113,7 +113,6 @@
 - [ ] add gcp dev profile badge
 - [ ] add certs badges
 - [ ] add last updated shield badge
-- [ ] add riot val badge?
 - [ ] update bio
 -->
 
