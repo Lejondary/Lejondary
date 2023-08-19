@@ -97,7 +97,7 @@
 <div align="right">
 
 <!-- VIEWS BADGE SINCE 08.07.2023 -->
-[![views][views-badge]][github-url]
+<!--[![views][views-badge]][github-url]-->
 <!--[![linkedin][linkedin-badge]][linkedin-url]-->
 
 </div>
@@ -106,12 +106,12 @@
 - [ ] add road card
 - [ ] add connect with me section w/ badges
 - [ ] revamp icons to md badges
-- [x] make badge repo
 - [ ] add dev.to badge
 - [ ] add portfolio badge
 - [ ] add .dev badge
 - [ ] add gcp dev profile badge
 - [ ] add certs badges
+- [ ] add isc2 badge
 - [ ] add last updated shield badge
 - [ ] update bio
 -->
