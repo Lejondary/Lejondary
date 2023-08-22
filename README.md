@@ -15,7 +15,13 @@
 ### 🍔&nbsp;About Me
 
 <!-- START_SECTION: about me -->
+Innovation and experimentation excites me more than alliteration attempts to, enticing me to work on the next big interesting idea. Coding is a sea of constant learning, which calls to all my passions; it satisfies my cravings for creativity and problem solving, enables me to develop innovative software solutions, and create robust and scalable applications.
 
+I love applying cloud-native architecture principles; designing a system that is reliable, resilient, elastic, and independent; and watching everything working together autonomously exactly how I envisioned it. It's ridiculously rewarding. I believe in a way I'm sort of like cloud-native applications; I'm adaptable in an environment where the only constant is change.
+
+Collaboration is at the core of my approach. I thrive within collaborative environments, cherishing constructive feedback and open dialogue as essential elements to engineering effective cloud solutions.
+
+Let's connect, learn something new from each other, and explore potential collaborations!
 <!-- END_SECTION: about me -->
 
 ### <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="hello world laptop" width="31" align="left"/>&nbsp;Tech Stack
@@ -113,7 +119,7 @@
 - [ ] add certs badges
 - [ ] add isc2 badge
 - [ ] add last updated shield badge
-- [ ] update bio
+- [x] update bio
 -->
 
 <!--Credit: [Lejondary][github-url] -->
