@@ -21,6 +21,8 @@ I love applying cloud-native architecture principles; designing a system that is
 
 Collaboration is at the core of my approach. I thrive within collaborative environments, cherishing constructive feedback and open dialogue as essential elements to engineering effective cloud solutions.
 
+When my head isn't in the clouds, I'm either lifting weights in the gym, working on my golf swing, or playing the piano!
+
 Let's connect, learn something new from each other, and explore potential collaborations!
 <!-- END_SECTION: about me -->
 
