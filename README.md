@@ -120,8 +120,8 @@ Let's connect, learn something new from each other, and explore potential collab
 - [ ] add gcp dev profile badge
 - [ ] add certs badges
 - [ ] add isc2 badge
+- [ ] add sf badge
 - [ ] add last updated shield badge
-- [x] update bio
 -->
 
 <!--Credit: [Lejondary][github-url] -->
