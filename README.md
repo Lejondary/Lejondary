@@ -124,6 +124,7 @@ Let's connect, learn something new from each other, and explore potential collab
 - [ ] add last updated shield badge
 - [ ] fix gh icons
 - [ ] fix gh profile 
+- [ ] add currently working on
 -->
 
 <!--Credit: [Lejondary][github-url] -->
