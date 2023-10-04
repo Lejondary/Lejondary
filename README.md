@@ -122,8 +122,7 @@ Let's connect, learn something new from each other, and explore potential collab
 - [ ] add isc2 badge
 - [ ] add sf badge
 - [ ] add last updated shield badge
-- [ ] fix gh icons
-- [ ] fix gh profile 
+- [ ] fix gh profile links
 - [ ] add currently working on
 -->
 
