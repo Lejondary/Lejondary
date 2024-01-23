@@ -28,7 +28,7 @@ Let's connect, learn something new from each other, and explore potential collab
 
 ### <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="hello world laptop" width="31" align="left"/>&nbsp;Tech Stack
 
-<!-- START_SECTION: my tech stack -->
+<!-- START_SECTION: my tech stack 
 <div align="left">
 
 #### Programming Languages
