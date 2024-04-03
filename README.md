@@ -112,6 +112,7 @@ Let's connect, learn something new from each other, and explore potential collab
 </div>
 
 <!-- TODO
+
 - [ ] add road card
 - [ ] add connect with me section w/ badges
 - [ ] revamp icons to md badges
@@ -125,7 +126,8 @@ Let's connect, learn something new from each other, and explore potential collab
 - [ ] add last updated shield badge
 - [ ] fix gh profile links
 - [ ] add currently working on
--->
+
+END TODO -->
 
 <!--Credit: [Lejondary][github-url] -->
 
@@ -144,3 +146,4 @@ Let's connect, learn something new from each other, and explore potential collab
 [linkedin-url]: https://linkedin.com/in/jonathanphari
 -->
 [views-badge]: https://komarev.com/ghpvc/?username=Lejondary&style=plastic&color=d65d0e&label
+
